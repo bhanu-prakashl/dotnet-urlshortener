@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "608oc5Y0mcx8UHZQZ3H0x7LDyu20I+ogvRjKiEAeYjQ=",
+  "Source": "dotnet-urlshortener",
+  "BasePath": "_content/dotnet-urlshortener",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

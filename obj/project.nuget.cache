@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzFvfKYbH4NxC42OL2umcsB88TNdaLIV1ekIfnspSyt/xQWLVJs7Cz5fDQNga+LcxJMpjGzJqoiK1EFX165rRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gwyne\\Developer\\dotnet-urlshortener\\dotnet-urlshortener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gwyne\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
